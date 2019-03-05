@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<stus>
+
+    <stu>
+        <name>zhangsan</name>
+        <age>18</age>
+        <address>shenzhen</address>
+    </stu>
+
+    <stu>
+        <name>lisi</name>
+        <age>28</age>
+        <address>beijing</address>
+    </stu>
+
+</stus>
